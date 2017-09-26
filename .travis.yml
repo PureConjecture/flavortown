@@ -4,4 +4,4 @@ python:
 install:
   - pip install -r cse5914demoapp/requirements.txt
 script:
-  - pytest
+  - runTests.py
