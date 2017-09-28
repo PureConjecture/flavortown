@@ -6,11 +6,11 @@ from cse5914demoapp/hello.py import getRecipes, processImage, answerQuery
 # getRecipes tests
 
 # print out a recipe list for manual checking
-def display_recipe_list(recipeList):	
-	for recipe in recipeList:
-		for field in recipe:
-			print(field + '\n')
-		print('\n')
+#def display_recipe_list(recipeList):	
+#	for recipe in recipeList:
+#		for field in recipe:
+#			print(field + '\n')
+#		print('\n')
 
 
 def getRecipes_has_result():
