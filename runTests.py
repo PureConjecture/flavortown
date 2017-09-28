@@ -1,4 +1,4 @@
-from hello.py import getRecipes, processImage, answerQuery
+from hello import getRecipes, processImage, answerQuery
 
 # Preliminary test cases
 
